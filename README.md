@@ -1,2 +1,3 @@
 # Telematica-1
-cosas que aprendo de telematica 1, mas las practicas de cada momento
+swicth trabaja en capa de fisica y datos
+router trabaja en caa de trasporte y red 
